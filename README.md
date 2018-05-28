@@ -25,8 +25,8 @@
 
 ##### Notes
 
-Rf = Risk-free Rate
-Mkt Premium = Mkt return - Rf
-CAPM Formula: Return = Rf + Beta \* Mkt Premium
+1.  Rf = Risk-free Rate
+2.  Mkt Premium = Mkt return - Rf
+3.  CAPM Formula: Return = Rf + Beta \* Mkt Premium
 
 Since the formula is relatively straightforward, in CAPM.py, we'll attempt to calculate Beta using Linear Regression.
