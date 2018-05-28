@@ -2,9 +2,9 @@
 
 ##### Assumptions
 
-.._ Only for European Call options
-.._ Constant Volatility across different strike prices
-..\* Constant Dividend and Risk-free rates
+* Only for European Call options
+* Constant Volatility across different strike prices
+* Constant Dividend and Risk-free rates
 
 ##### Inputs
 
