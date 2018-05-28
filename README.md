@@ -30,3 +30,10 @@
 3.  CAPM Formula: Return = Rf + Beta \* Mkt Premium
 
 Since the formula is relatively straightforward, in CAPM.py, we'll attempt to calculate Beta using Linear Regression.
+
+##### Methodology
+
+1.  We'll attempt to calculate TSLA's beta.
+2.  To do so, we'll use TSLA and S&P 500's historical prices (2014 to 2018).
+3.  We then pre-process the data and then compare the monthly closing prices.
+4.  Finally, we use Ordinary Least Squares to compute Beta.
